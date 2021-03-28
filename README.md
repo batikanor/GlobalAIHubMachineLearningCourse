@@ -2,9 +2,9 @@
 ![](img/newlogo.png)
 
 **Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
+**Name:** BATIKAN BORA  
+**Surname:** ORMANCI
+**Email:** batikanor@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
@@ -13,9 +13,7 @@ Description of your project.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+--nothing to jabby, pip install commands are integrated in code--
 ```
 ---
 
